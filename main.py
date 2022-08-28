@@ -9,11 +9,11 @@ KEY = '2f6a0a0c89a347aca7245ac92e4f6d99'    #和风天气API
 users = [{'name':'lrx',
             'user':'ospjp502g67JVKKnqQur4CJ7_Ph4',
             'template_id':'BbsjbEl08BB31PPiMiIHtymOkDSTSEvTaB2emdN-0lk',
-            'city':'周至县'}
-        #  {'name':'hjg',
-        #     'user':'ospjp50ABcys42u1wlAPol6AvIt4',
-        #     'template_id':'CAk8krPEhM8Y1WBrBECi0FNk_6piA52AywWPw4GyhxE',
-        #     'city':'天河区'}
+            'city':'周至县'},
+         {'name':'hjg',
+            'user':'ospjp50ABcys42u1wlAPol6AvIt4',
+            'template_id':'CAk8krPEhM8Y1WBrBECi0FNk_6piA52AywWPw4GyhxE',
+            'city':'天河区'}
 ]
 
 
