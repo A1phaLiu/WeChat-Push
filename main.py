@@ -13,7 +13,11 @@ users = [{'name':'lrx',
          {'name':'hjg',
             'user':'ospjp50ABcys42u1wlAPol6AvIt4',
             'template_id':'CAk8krPEhM8Y1WBrBECi0FNk_6piA52AywWPw4GyhxE',
-            'city':'天河区'}
+            'city':'天河区'},
+         {'name':'wyy',
+            'user':'ospjp52cyfgdjEhTvguwZJeng9cc',
+            'template_id':'BbsjbEl08BB31PPiMiIHtymOkDSTSEvTaB2emdN-0lk',
+            'city':'永寿县'}
 ]
 
 
